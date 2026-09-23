@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestaoFaculdade.App/GestaoFaculdade.App.csproj" />
+  <Project Path="GestaoFaculdade.Domain/GestaoFaculdade.Domain.csproj" />
+</Solution>
